@@ -28,6 +28,9 @@ kramdown:
     disable: true
 header_pages:
   - resume.md
+collections:
+  personal: # collection for personal blog posts
+    output: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
