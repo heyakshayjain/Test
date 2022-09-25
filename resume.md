@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: My Resume
 layout: default
 ---
 {%- include resume.html -%}
