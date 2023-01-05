@@ -1,7 +1,7 @@
 title: "Akshay Jain"
 author: "Akshay Jain"
 description: "Hi, I’m Akshayjain and I’m interested in Data Engineering and Data Science and I’m currently Pursuing my Master's in Data and Knoweldge Engineering and I’m looking to collaborate on Projects based upon Data stream based projects or Data Analysis Projects
-📫 How to reach me email: "heyakshayjain@gmail.com" " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+📫 How to reach me email: heyakshayjain@gmail.com " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -26,11 +26,11 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-
-
+    
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 titles_from_headings:
   strip_title: true
